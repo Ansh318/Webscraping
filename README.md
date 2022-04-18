@@ -61,6 +61,7 @@ print(s.protected_df(bpass))
 s.driver.close()
 ```
 
-# Author:
- [AnshAgarwal] : https://github.com/Ansh318
+## Authors
+
+- [@AnshAgarwal](https://www.github.com/Ansh318)
 
